@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790661663473",
+    "project_id": "mind-it-ab29a",
+    "storage_bucket": "mind-it-ab29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790661663473:android:04de36138af5539aca3750",
+        "android_client_info": {
+          "package_name": "com.kanad.mindit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790661663473-3vrrioi9c7erf43tt1p0c91mg1vmletr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_od1LjY9h9YfD6Gk2O8fE22oL33Ui5qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790661663473-3vrrioi9c7erf43tt1p0c91mg1vmletr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.columbifarms.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	be5d467541c151ac958830bdea81ba49fd7ba9f3116fa4dd5324cb35911c09f2a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22FE_YbDqr_fwrBotzbDO0R75iO3Y0M4umzUhPXyZt%22%3B%7D
-

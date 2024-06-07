@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mind it</string>
+    <string name="home_text">Home</string>
+    <string name="like_text">Like</string>
+    <string name="search_text">Search</string>
+    <string name="shop_text">Shop</string>
+    <string-array name="weight_array">
+        <item>Project Related</item>
+        <item>School Related</item>
+        <item>Study Related</item>
+        <item>Gmail Related</item>
+        <item>Research Related</item>
+        <item>Find Something</item>
+        <item>Diet Related</item>
+        <item>Extra Note</item>
+        <item>Application Related</item>
+        <item>Practise Something</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

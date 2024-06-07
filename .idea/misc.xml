@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable-v24/edit_text_btn.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable-v24/orangeoutline.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable-v24/radio_selector.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable-v24/selected.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/background_1.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/background_2.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/background_3.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/button.xml" value="0.1465" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/gradient_list.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_calendar.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_calendar_plus.xml" value="0.127" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_home.xml" value="0.136" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_menu.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_plus.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_user.xml" value="0.127" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/ic_video_camera.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/item_selector.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/round.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/round1.xml" value="0.207" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/round_corner.xml" value="0.189" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/drawable/startup_screen.xml" value="0.1" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/activity_main.xml" value="0.2392857142857143" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/activity_main_screen.xml" value="0.2" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_account.xml" value="0.152" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_add_deadline.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_add_meeting.xml" value="0.264" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_add_task.xml" value="0.2" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_add_work.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_available_work.xml" value="0.264" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/fragment_meetings.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/meeting.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/layout/todaystask.xml" value="0.259375" />
+        <entry key="..\:/Users/ansht/AndroidStudioProjects/kanad/wsa/ns/Mindit/app/src/main/res/menu/menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
